@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
-<h1 align="center">Hi 👋, I'm Yash Suthar</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20">, I'm Yash Suthar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsuthar00&label=Profile%20views&color=0e75b6&style=flat" alt="yashsuthar00" /> </p>
