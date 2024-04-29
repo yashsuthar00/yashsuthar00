@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsuthar00/Projects](https://github.com/yashsuthar00/Projects)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development, JAVA, MYSQL**
 
 - 📫 How to reach me **yashsuthar0309@gmail.com**
 
