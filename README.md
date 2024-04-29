@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsuthar00" alt="yashsuthar00" /></a> </p>
 
-- 🔭 I’m currently working on **Smart India Hackathon 2023**
+- 🔭 I’m currently working on **JAVA DYNAMIC WEB PROJECT(Using servlet, jsp, mysql)**
 
 - 🌱 I’m currently learning **backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashsuthar00/Projects](https://github.com/yashsuthar00/Projects)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/yashsuthar00/Projects](https://github.com/yashsuthar00/Projects)-->
 
 - 💬 Ask me about **Web development, JAVA, MYSQL**
 
