@@ -13,11 +13,11 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/yashsuthar00/Projects](https://github.com/yashsuthar00/Projects)-->
 
-- 💬 Ask me about **Web development, JAVA, MYSQL**
+- 💬 Ask me about **Web development, JAVA, MYSQL, MongoDB**
 
-- 📫 How to reach me **yashsuthar0309@gmail.com**
+- 📫 How to reach me **yashsuthar0309@gmail.com** 
 
-- 📄 Know about my experiences [https://github.com/yashsuthar00/resume](https://github.com/yashsuthar00/resume)
+<!-- 📄 Know about my experiences [https://github.com/yashsuthar00/resume](https://github.com/yashsuthar00/resume) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
