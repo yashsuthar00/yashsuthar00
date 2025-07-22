@@ -145,7 +145,12 @@ const yash = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsuthar00/yashsuthar00/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsuthar00/yashsuthar00/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/yashsuthar00/yashsuthar00/output/github-snake.svg" alt="GitHub Snake">
+</picture>
+
 
 </div>
 
