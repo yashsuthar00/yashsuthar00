@@ -138,7 +138,13 @@ const yash = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yashsuthar00)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yashsuthar00)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yashsuthar00)
+<div align="center">
 
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/yashsuthar00?theme=dark" alt="LeetCode Stats" width="400"/>
+
+</div>
 </div>
 
 ---
