@@ -1,35 +1,50 @@
-## Hi there, I'm Yash 👋
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Full+Stack+%2B+AI+Developer;Software+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-```javascript
-const yash = {
-    location: "India",
-    role: "Full Stack Developer",
-    currentFocus: "Building my personal portfolio",
-    learning: ["Machine Learning", "DevOps", "System Design"],
-    hobbies: ["Coding", "Problem Solving", "Open Source"]
-};
-```
-
-- 🔭 I'm currently working on **my portfolio website**
-- 🌱 I'm currently learning **AI** and **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
---- 
-
-<br>
 <div align="center">
 
+# Hey there! I'm Yash 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Engineer+%2B+AI+Developer;Building+Scalable+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=yashsuthar00&style=for-the-badge&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/yashsuthar00?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/yashsuthar00?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub stars" />
 
 </div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const yash = {
+    location: "India 🇮🇳",
+    role: "Software Engineer + AI Developer",
+    currentFocus: "Building intelligent web applications",
+    learning: ["Machine Learning", "DevOps", "System Design"],
+    interests: ["Coding", "Problem Solving", "Open Source"],
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+<table>
+<tr>
+<td>🔭 Currently building</td>
+<td><b>Portfolio website</b> with terminal-style interface</td>
+</tr>
+<tr>
+<td>🌱 Learning</td>
+<td><b>AI/ML</b> & <b>Cloud Technologies</b></td>
+</tr>
+<tr>
+<td>👯 Open to</td>
+<td>Collaborating on <b>Open Source Projects</b></td>
+</tr>
+<tr>
+<td>💬 Ask me about</td>
+<td><b>React, Node.js, Python, System Design</b></td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -53,13 +68,13 @@ const yash = {
 
 </div>
 
----
+<!-- --- -->
 
 
 
 
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -79,9 +94,9 @@ const yash = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashsuthar00&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 🎯 Current Mission: Project Highlights
 
