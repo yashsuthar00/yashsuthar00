@@ -2,9 +2,7 @@
 
 # Hey there! I'm Yash 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Engineer+%2B+AI+Developer;Building+Scalable+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Engineer+%2B+AI+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=yashsuthar00&style=for-the-badge&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/yashsuthar00?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub followers" />
